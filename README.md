@@ -1,3 +1,3 @@
 # KARAOKE
 
-Pequeños scripts hecho para ayudar a la artista y perfomer María Sabato en el desarrollo de sus trabajos con karaoke.
+Pequeños scripts realizados para colaborar con el desarrollo de los trabajos y performances relacionados con el karaoke de la artista y gran amiga María Sabato.
